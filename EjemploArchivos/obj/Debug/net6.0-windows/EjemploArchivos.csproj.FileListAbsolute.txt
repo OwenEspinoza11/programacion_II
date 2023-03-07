@@ -1,0 +1,17 @@
+C:\Users\JADPA-21\source\EjemploArchivos\bin\Debug\net6.0-windows\EjemploArchivos.exe
+C:\Users\JADPA-21\source\EjemploArchivos\bin\Debug\net6.0-windows\EjemploArchivos.deps.json
+C:\Users\JADPA-21\source\EjemploArchivos\bin\Debug\net6.0-windows\EjemploArchivos.runtimeconfig.json
+C:\Users\JADPA-21\source\EjemploArchivos\bin\Debug\net6.0-windows\EjemploArchivos.dll
+C:\Users\JADPA-21\source\EjemploArchivos\bin\Debug\net6.0-windows\EjemploArchivos.pdb
+C:\Users\JADPA-21\source\EjemploArchivos\obj\Debug\net6.0-windows\EjemploArchivos.csproj.AssemblyReference.cache
+C:\Users\JADPA-21\source\EjemploArchivos\obj\Debug\net6.0-windows\EjemploArchivos.frmArchivo.resources
+C:\Users\JADPA-21\source\EjemploArchivos\obj\Debug\net6.0-windows\EjemploArchivos.csproj.GenerateResource.cache
+C:\Users\JADPA-21\source\EjemploArchivos\obj\Debug\net6.0-windows\EjemploArchivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA-21\source\EjemploArchivos\obj\Debug\net6.0-windows\EjemploArchivos.AssemblyInfoInputs.cache
+C:\Users\JADPA-21\source\EjemploArchivos\obj\Debug\net6.0-windows\EjemploArchivos.AssemblyInfo.cs
+C:\Users\JADPA-21\source\EjemploArchivos\obj\Debug\net6.0-windows\EjemploArchivos.csproj.CoreCompileInputs.cache
+C:\Users\JADPA-21\source\EjemploArchivos\obj\Debug\net6.0-windows\EjemploArchivos.dll
+C:\Users\JADPA-21\source\EjemploArchivos\obj\Debug\net6.0-windows\refint\EjemploArchivos.dll
+C:\Users\JADPA-21\source\EjemploArchivos\obj\Debug\net6.0-windows\EjemploArchivos.pdb
+C:\Users\JADPA-21\source\EjemploArchivos\obj\Debug\net6.0-windows\EjemploArchivos.genruntimeconfig.cache
+C:\Users\JADPA-21\source\EjemploArchivos\obj\Debug\net6.0-windows\ref\EjemploArchivos.dll
