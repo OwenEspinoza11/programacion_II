@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjemploArchivos", "EjemploArchivos.csproj", "{61295715-273F-416F-9D73-C0B14A2FF7D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EjemploArchivos", "EjemploArchivos.csproj", "{61295715-273F-416F-9D73-C0B14A2FF7D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaBanco", "..\BibliotecaBanco\BibliotecaBanco.csproj", "{0A6D3B18-9C95-4D43-8C6C-9655D5F9DB88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrearArchivos", "..\CrearArchivos\CrearArchivos.csproj", "{F830EB2C-0E10-4559-91FD-680643672DC0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{61295715-273F-416F-9D73-C0B14A2FF7D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61295715-273F-416F-9D73-C0B14A2FF7D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61295715-273F-416F-9D73-C0B14A2FF7D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A6D3B18-9C95-4D43-8C6C-9655D5F9DB88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A6D3B18-9C95-4D43-8C6C-9655D5F9DB88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A6D3B18-9C95-4D43-8C6C-9655D5F9DB88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A6D3B18-9C95-4D43-8C6C-9655D5F9DB88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F830EB2C-0E10-4559-91FD-680643672DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F830EB2C-0E10-4559-91FD-680643672DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F830EB2C-0E10-4559-91FD-680643672DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F830EB2C-0E10-4559-91FD-680643672DC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
